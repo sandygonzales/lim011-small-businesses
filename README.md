@@ -286,7 +286,7 @@ herramienta adicional como Marvel o Invision. Recuerda que el diseño que
 trabajes debe seguir los fundamentos de visual design, como: contraste,
 alineación, jerarquía, entre otros.
 
-## 10. Hacker edition
+## 9. Hacker edition
 
 * En lugar de usar Github para documentar tu proceso de trabajo, documéntalo en
   su propia web, puedes usar Wix, Instapage, Squarespace, Google Sites o crear
