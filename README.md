@@ -42,8 +42,12 @@ que asesoremos a **uno** de sus miembros en crear un portal desde donde los
 consumidores compren sus productos sin intermediarios. Entre los miembros puedes
 elegir a:
 
-* Bluebox
-* Transversal | Wellness Travels
+* [Bluebox](https://instagram.com/bluebox.barsupplies)
+* [Transversal | Wellness Travels](https://instagram.com/transversaltravel)
+* [Pirqa](https://www.pirqa.com/)
+* [Mary's](https://instagram.com/marys_postres)
+* []()
+* []()
 
 Luego de elegir con qué miembro trabajarás, la ANPC te pide que ayudes a ese
 miembro a hacer un estudio inicial de cómo debería ser este portal de ventas y
@@ -164,9 +168,9 @@ En este proyecto necesitarás salir a hablar con usuarios reales y entender
 cuáles son sus necesidades, cómo las resuelven actualmente y proponer una
 solución óptima para resolver estas necesidades. Mientras resuelves el proyecto
 vas a tener que ir documentando las actividades que realices a través de fotos,
-videos, textos y scripts. Utiliza tu en Google Drive para guardar toda esta
+videos, textos y scripts. **Utiliza tu en Google Drive para guardar toda esta
 documentación y luego linkea las partes más importantes en el `README.md` de tu
-repositorio en GitHub.
+repositorio en GitHub**.
 
 En este caso el README.md será la portada de tu solución final, en él tendrás
 que mostrar la solución final a través de screenshots y podrás compartir links a
@@ -185,7 +189,7 @@ bien qué actividades realizarás.
 
 ### 3) Planteamiento y validación de la solución
 
-Luego de haber definido cómo es que será la solución, es decir qué
+Luego de haber definido cómo será la solución, es decir, qué
 funcionalidades tendrá y por qué, tendrás que implementarla. En este caso,
 tendrás que hacer un prototipo de alta fidelidad y tendrás que validarlo. Cómo
 en el caso anterior, para crear y validar la solución puedes realizar muchas
@@ -197,8 +201,8 @@ los recursos que tienes.
 Para poder realizar este proyecto tendrás un presupuesto de 300 puntos. Estos
 puntos los podrás utilizar realizando las actividades del siguiente cuadro.
 Antes de empezar a realizar estas actividades tendrás que sustentar con tu coach
-o jedi master cómo es que distribuirás estos puntos en estas actividades.
-El coach o jedi master te dará el ok para que puedas empezar.
+cómo es que distribuirás estos puntos en estas actividades.
+El coach te dará el _OK_ para que puedas empezar.
 
 |Actividad|Descripción|Puntos|
 |:----|:---|:---:|
@@ -216,33 +220,7 @@ El coach o jedi master te dará el ok para que puedas empezar.
 |Prototipado de contenido| Prototipado y testeo del contenido del producto. | 30 |
 |Prototipado de alta fidelidad| Elaboración de prototipo en base a las pantallas diseñadas. | 80 |
 
-## 7. Evaluación
-
-Te aconsejamos revisar [la rúbrica](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRktPN4ilZtkRN5tUb3DVhgeihwlzk63_-JI3moA-bXpKDbHDioAK2H3qbrwWNb0Ql4wX22Tgv7-PDv/pubhtml)
-para ver la descripción detallada de cada _habilidad_ y cada _nivel_. Esta es
-una lista de todas las habilidades involucradas en este proyecto y que
-evaluaremos cuando lo  completes:
-
-### Habilidades Técnicas (UX)
-
-| Habilidad                      | Nivel esperado |
-|--------------------------------|----------------|
-| **Research**                                    |
-| User centricity                | 3              |
-| Entrevistas                    | 2              |
-| Testing                        | 2              |
-| Planeamiento y ejecución       | 2              |
-| Síntesis de resultados         | 2              |
-| **Interaction design**                          |
-| Diseño de interacción          | 2              |
-| Arquitectura de la información | 2              |
-| Prototyping                    | 2              |
-| **Visual design**                               |
-| Visual Design                  | 3              |
-| **Business mindset**                            |
-| Business mindset               | 2              |
-
-## 8. Entrega
+## 7. Entrega
 
 El proyecto será entregado en un repositorio de GitHub. En él deberás agregar
 lo siguiente:
@@ -276,7 +254,7 @@ agregar los documentos complementarios que sustenten tu proceso:
 * Mapa de sitio
 * Etc.
 
-## 9. Otras consideraciones
+## 8. Otras consideraciones
 
 ### 1) Planeamiento y presupuesto
 
