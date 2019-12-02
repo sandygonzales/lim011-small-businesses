@@ -46,8 +46,8 @@ elegir a:
 * [Transversal | Wellness Travels](https://instagram.com/transversaltravel)
 * [Pirqa](https://www.pirqa.com/)
 * [Mary's](https://instagram.com/marys_postres)
-* []()
-* []()
+* [FyM Carpintería y Servicios Generales](https://www.facebook.com/fymcarpinteria/)
+* [Amándote Amar](https://web.facebook.com/amandoteamar.store)
 
 Luego de elegir con qué miembro trabajarás, la ANPC te pide que ayudes a ese
 miembro a hacer un estudio inicial de cómo debería ser este portal de ventas y
