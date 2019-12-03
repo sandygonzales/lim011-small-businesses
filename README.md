@@ -46,8 +46,12 @@ elegir a:
 * [Transversal | Wellness Travels](https://instagram.com/transversaltravel)
 * [Pirqa](https://www.pirqa.com/)
 * [Mary's](https://instagram.com/marys_postres)
-* [FyM Carpintería y Servicios Generales](https://www.facebook.com/fymcarpinteria/)
 * [Amándote Amar](https://web.facebook.com/amandoteamar.store)
+* [FyM Carpintería y Servicios Generales](https://www.facebook.com/fymcarpinteria/)
+* [Talleres De Arte TFA](https://www.instagram.com/tallerdeartetfa/)
+* [Sweet peach](https://www.facebook.com/sweet.peach.peru/)
+* [Le Pastel Bakery](https://www.instagram.com/lepastelbakery/)
+* [Delivery Fruta La Grande](https://www.facebook.com/Delivery-Fruta-La-Grande-143207576316285/)
 
 Luego de elegir con qué miembro trabajarás, la ANPC te pide que ayudes a ese
 miembro a hacer un estudio inicial de cómo debería ser este portal de ventas y
