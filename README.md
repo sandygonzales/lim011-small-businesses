@@ -1,298 +1,235 @@
-# Plataforma de ventas en línea
+# FyM Carpintería & Servicios Generales Small Business
+
+![image](https://imgur.com/jer8YEt.jpg)
 
 ## Índice
 
-* [1. Preámbulo](#1-preámbulo)
-* [2. Resumen del proyecto](#2-resumen-del-proyecto)
-* [3. Objetivos de aprendizaje](#3-objetivos-de-aprendizaje)
-* [4. Consideraciones generales](#4-consideraciones-generales)
-* [5. Criterios de aceptación mínimos del proyecto](#5-criterios-de-aceptación-mínimos-del-proyecto)
-* [6. Consideraciones técnicas](#6-consideraciones-técnicas)
-* [7. Evaluación](#7-evaluación)
-* [8. Entrega](#8-entrega)
-* [9. Otras consideraciones](#9-otras-consideraciones)
-* [10. Hacker edition](#10-hacker-edition)
+* [1. Introducción](#1-Introducción)
+* [2. Objetivos del Proyecto](#2-objetivos-del-proyecto)
+* [3. Implementación](#3-Implementación)
+* [4. Proceso UX](#4-proceso-ux)
+  * [4.1 Descubrimiento e Investigación](###4.1-Descubrimiento-y-Planificación)
+    * [4.1.1 Entrevista con el Cliente](####Entrevista-con-el-Cliente)
+    * [4.1.2 Entrevistas con usuarios](####Entrevista-con-usuarios)
+    * [4.1.3 Benchmark](####Bechmarck)
+  * [4.2 Síntesis y Definición](###4.2-Síntesis-y-Definición)
+    * [4.2.1 Affinity Map](####Affinity-map)
+    * [4.2.2 User Persona](####User-Persona)
+    * [4.2.3 Customer Journey Map](####Customer-Journey-map)
+    * [4.2.4 Definición del Producto](####Definicion-del-producto)
+  * [4.3 Ideación, Prototipado y user testing](###4.3-Ideación,-prototipado-y-user-testing)
+    * [4.3.1 Bechmark por cada Problem Statement](####benchmark-por-cada-problem-statement)
+    * [4.3.2 Crazy 8s](####crazy-8s)
+    * [4.3.3 Flujo de Contenidos](####flujo-de-contenidos)
+    * [4.3.4 Prototipo de Mediana Fidelidad](####prototipo-de-mediana-fidelidad)
+    * [4.3.5 Prototipo de Alta Fidelidad](####prototipo-de-alta-fidelidad)
+    * [4.3.6 User Testing](####user-testing)
+
+* [5. Conclusiones](#5-conclusiones)
+* [6. Enlaces](#6-enlaces)
 
 ***
 
-## 1. Preámbulo
+## 1. Introducción
 
-En el mundo hay muchas formas de vender en línea, el porcentaje de compradores
-online sigue creciendo y la gama de cosas que pueden comprar también lo hace.
-Como compradores no siempre somos conscientes de todo lo que debe pasar para que
-los productos que necesitamos estén en una repisa del supermercado o de una
-tienda. En el comercio minorista hay una serie de intermediarios que en
-ocasiones nos hacen perder la pista del ‘viaje’ de un producto; un viaje que va
-encareciendo el producto por cada empresa por la que debe pasar hasta que llega
-a las manos de nosotros, los consumidores.
+FyM brinda servicios en carpintería de madera y metálica; además servicios generales como mantenimiento, pintura, mudanzas, gasfitería, electricidad, reparación, remodelaciones y acabados para todo tipo de ambientes. En cuanto al mobiliario, es exclusivamente diseñado y fabricado de acuerdo al gusto y necesidad del usuario.
 
-En esta realidad hay dos actores perjudicados: el consumidor, que acaba pagando
-más por un producto y el productor o fabricante, que se ve presionado a vender
-más barato para que su producto llegue al consumidor a un precio asequible y que
-todos puedan beneficiarse en el camino.
+## 2. Objetivos del Proyecto
 
-## 2. Resumen del proyecto
+**Implementar una plataforma web donde nuestros usuarios puedan encontrar un equipo confiable de especialistas que gestionan y desarrollan proyectos de construcción, mantenimiento y acabados.**
+- Conocer las experiencias de nuestros usuarios.
+- Saber cómo nuestros usuarios consiguen estos servicios y que esperan de estos.
+- Introducir sus servicios en el mundo digital a través de una plataforma web diferente y con contenido de calidad.
 
-### “Nuevo portal de e-commerce”
 
-Nos han contactado de la Asociación Nacional de Pequeños Comerciantes, una
-asociación que agrupa a pequeñas y medianas empresas productoras y fabricantes
-de alimentos naturales, postres, accesorios, vestimenta y calzado, y nos piden
-que asesoremos a **uno** de sus miembros en crear un portal desde donde los
-consumidores compren sus productos sin intermediarios. Entre los miembros puedes
-elegir a:
+## 3. Implementación
 
-* [Bluebox](https://instagram.com/bluebox.barsupplies)
-* [Transversal | Wellness Travels](https://instagram.com/transversaltravel)
-* [Pirqa](https://www.pirqa.com/)
-* [Mary's](https://instagram.com/marys_postres)
-* [Amándote Amar](https://web.facebook.com/amandoteamar.store)
-* [FyM Carpintería y Servicios Generales](https://www.facebook.com/fymcarpinteria/)
-* [Talleres De Arte TFA](https://www.instagram.com/tallerdeartetfa/)
-* [Sweet peach](https://www.facebook.com/sweet.peach.peru/)
-* [Le Pastel Bakery](https://www.instagram.com/lepastelbakery/)
-* [Delivery Fruta La Grande](https://www.facebook.com/Delivery-Fruta-La-Grande-143207576316285/)
-
-Luego de elegir con qué miembro trabajarás, la ANPC te pide que ayudes a ese
-miembro a hacer un estudio inicial de cómo debería ser este portal de ventas y
-cómo deben ofrecer los productos a los consumidores. Quieren que averigües cómo
-son los consumidores que utilizaría este canal de venta y cuáles son sus
-motivaciones, cómo es el mercado actual en el que incursionarán; y que propongas
-una visión de cómo podría plantearse este nuevo canal de ventas.
-
-Una vez conozcas a los posibles compradores debes formular una propuesta de
-valor. Esto quiere decir que debes pensar cómo este portal va a comunicar sus
-beneficios a los usuarios y cómo va a vender sus productos. Para que guíes a la
-empresa que elijas a entender tu visión, esperan que les hagas una propuesta de
-cómo podría ser el portal donde las personas puedan buscar, ver, elegir y
-comprar sus productos.
-
-## 3. Objetivos de aprendizaje
-
-El objetivo principal de aprendizaje de este proyecto es entender cómo pasamos
-de lo que un cliente quiere alcanzar a la definición de un producto digital en
-poco tiempo. Entender los principales pasos y preguntas que debemos hacernos,
-cómo involucrar a los usuarios y su feedback y cómo usar esos resultados sin
-perder de vista los objetivos iniciales.
-Esperamos que en este proyecto puedas entender las necesidades y falencias de
-las empresas, aprender y empezar a empaparte de los posibles modelos de negocio
-así como investigar a su audiencia, los usuarios que consumen sus productos,
-entendiendo sus preferencias y contexto en el que lo hacen.
-
-De la misma manera deberás definir cuál es la mejor forma de ofrecerle los
-productos de tu cliente a sus usuarios, y, pensando en una propuesta de valor y
-sus objetivos. También, deberás definir los contenidos, la interacción y el
-diseño del proceso a partir del cual el usuario podrá hacer sus pedidos en esta
-plataforma.
-Este proyecto se debe "resolver" en parejas, por lo que un objetivo importante
-es ganar experiencia en trabajos con entrega grupal. Cada uno de las integrantes
-será responsable de una parte del trabajo: (1) el entendimiento del problema y
-(2) planeamiento y validación de la solución.
-
-### Tópicos a cubrir
-
-Para completar este proyecto tendrás que familiarizarte con conceptos como: UX
-research (entrevistas, benchmark), arquitectura de la información (flujo de
-contenido, mapa de sitio), diseño visual y de interacción (wireframes y
-prototipado), y user testing.
-
-## 4. Consideraciones generales
-
-Para ser una gran UX no sólo debes familiarizarte con los conceptos sino,
-también, poner a prueba tus habilidades blandas. El uso de tu curiosidad y
-empatía son claves para el éxito laboral.
-Para poder realizar una buena entrevista, un benchmark o un user testing
-necesitas en todo momento estar atenta al cómo y no sólo al qué. En este
-sentido, es esencial que practiques el modo en que te comunicas frente al
-cliente y el usuario. Debes pensar quiénes son y qué es lo que necesitan, y no
-sólo enfocarte en lo que tú quieres comunicar.
-
-* Relación con el cliente: la empresa miembro con la que te toque trabajar será
-  tu cliente. Saber relacionarte con ellos no es fácil. Para comenzar una buena
-  relación con el cliente debes escuchar de manera activa qué es lo que necesitan,
-  haciendo preguntas que te ayuden a entender sus necesidades para luego buscar
-  cómo resolverlas. No trates de dar soluciones inmediatas, escucha y pregunta, la
-  curiosidad es clave para entender la problemática. El problema del cliente no
-  siempre es el primero que parece, debes investigar la empresa y la competencia
-  para entender lo que sucede. Para mantener una buena relación con los clientes
-  debes mostrarle cómo se beneficiarán de lo que ofreces; enséñale los posibles
-  resultados y el beneficio que ellos podrían obtener. También debes estudiar las
-  mejores prácticas en la industria del comercio electrónico para poder mostrarle
-  al cliente casos de éxito.
-
-* Benchmark: revisar referencias y dar referencias es clave para tu relación con
-  el cliente. Antes de comenzar a crear cualquier producto debes revisar qué está
-  haciendo la competencia o industrias similares. De esta manera, puedes traer
-  buenas prácticas y evitar replicar aquellas que no son exitosas. Esto al cliente
-  le da la confianza de que efectivamente tienes conocimiento de su problemática
-  y que has estudiado todas las posibles soluciones. Para que el benchmark sea
-  efectivo, tu curiosidad y pensamiento crítico deben ser altos; no sólo buscar
-  las referencias que resulten obvias, sino otras industrias que puedan funcionar
-  de manera similar o empresas pequeñas que están teniendo casos de éxito.
-
-* Presentación del plan, a dónde vas a ir y por qué: al resolver la problemática
-  debes realizar un plan de trabajo, donde se visualicen las herramientas que
-  estás utilizando y por qué las escogiste. No todas las problemáticas requieren
-  que utilices las mismas herramientas. Debes utilizar la que mejor se ajuste. Es
-  importante que siempre sustentes tu idea, no se trata de trabajar de manera
-  mecánica para entregar algo al cliente, sino argumentar por qué esa es la mejor
-  manera de aproximarse a una posible solución.
-
-* Testing centrado en el usuario: Realizar las pruebas con los usuarios
-  garantiza que los problemas se detecten antes, las buenas ideas se introducen
-  más rápido y se reducen los esfuerzos de diseño y desarrollo de productos
-  innecesarios. Steve Jobs, una vez dijo: "El diseño no es sólo cómo se ve y cómo
-  se siente. El diseño es cómo funciona”. Las pruebas de usabilidad son una
-  técnica que ayuda a evaluar un producto al probarlo con usuarios reales. El
-  testing es una buena forma de profundizar en las necesidades y preferencias de
-  los usuarios observando sus reacciones mientras usan un producto. Para que el
-  testing realmente esté centrado en el usuario, tú debes centrarte también en él,
-  actuando con curiosidad y empatía en todo momento, preguntando de manera activa
-  al usuario qué podrías mejorar y buscar aquellos errores que llevarán tu
-  producto al siguiente nivel. No trates de que el usuario apruebe tu producto,
-  llévalo a buscar las mejoras y posibles errores, generando una relación de
-  confianza con el usuario.
-
-Tu curiosidad, empatía y pensamiento crítico son claves para tu éxito como UX
-Designer. En cada herramienta que utilices debes poner a prueba tus soft skills.
-Nunca des nada por supuesto, siempre pregunta hasta encontrar nuevas respuestas,
-debes actuar en todo momento con un pensamiento crítico, sino harás de manera
-mecánica tus proyectos sin encontrar soluciones innovadoras. Sé una
-investigadora, tu curiosidad es clave en los procesos creativos; pregunta
-constantemente y no intentes buscar soluciones inmediatas, aprende a navegar con
-la incertidumbre. La empatía es la habilidad que te va a guiar en las relaciones
-tanto con el cliente como con el usuario, intenta salir de tu mente y tus
-supuestos para entender cómo piensan los otros.
-
-## 5. Criterios de aceptación mínimos del proyecto
-
-### 1) General
-
-En este proyecto necesitarás salir a hablar con usuarios reales y entender
-cuáles son sus necesidades, cómo las resuelven actualmente y proponer una
-solución óptima para resolver estas necesidades. Mientras resuelves el proyecto
-vas a tener que ir documentando las actividades que realices a través de fotos,
-videos, textos y scripts. **Utiliza tu en Google Drive para guardar toda esta
-documentación y luego linkea las partes más importantes en el `README.md` de tu
-repositorio en GitHub**.
-
-En este caso el README.md será la portada de tu solución final, en él tendrás
-que mostrar la solución final a través de screenshots y podrás compartir links a
-las secciones que detallaremos más adelante.
-
-### 2) Entendimiento del problema
-
-Durante esta parte te asegurarás que el producto que diseñarás es el correcto,
-es decir, que sigue objetivos de negocio y que resuelve necesidades reales de
-los usuarios. Para ello tendrás que entender al cliente (el miembro de la
-Asociación Nacional de Pequeños Comerciantes con quien estás trabajando) y a los
-usuarios. Luego de entender el problema, tendrás que plantear cómo es que vas a
-resolver dicho problema. Para ello puedes realizar muchas actividades, sin
-embargo el tiempo y los recursos que tienes son limitados. Tendrás que elegir
-bien qué actividades realizarás.
-
-### 3) Planteamiento y validación de la solución
-
-Luego de haber definido cómo será la solución, es decir, qué
-funcionalidades tendrá y por qué, tendrás que implementarla. En este caso,
-tendrás que hacer un prototipo de alta fidelidad y tendrás que validarlo. Cómo
-en el caso anterior, para crear y validar la solución puedes realizar muchas
-actividades, depende de ti elegir cuáles son las más adecuadas para el caso y
-los recursos que tienes.
-
-## 6. Consideraciones técnicas
-
-Para poder realizar este proyecto tendrás un presupuesto de 300 puntos. Estos
-puntos los podrás utilizar realizando las actividades del siguiente cuadro.
-Antes de empezar a realizar estas actividades tendrás que sustentar con tu coach
-cómo es que distribuirás estos puntos en estas actividades.
-El coach te dará el _OK_ para que puedas empezar.
+Para realizar este proyecto hemos seleccionado las siguientes herramientas:
 
 |Actividad|Descripción|Puntos|
 |:----|:---|:---:|
-|Entendimiento del problema, la industria y el contexto| Entender el contexto del negocio y lo que existe hoy en día respecto de la industria del proyecto. | 15 |
 |Entrevistas con cliente|Realización de entrevistas con el cliente (dueño del reto) y establecimiento de sus metas y objetivos.|25|
-|Benchmark| Revisión de features de la competencia y referencias análogas. | 20 |
 |Entrevistas con usuarios| Entrevistas en profundidad con al menos 5 usuarios. | 60 |
-|Observación contextual| Observación de al menos 5 usuarios en un contexto real de uso/compra. | 35 |
-|Inventario de contenidos| Inventario de todos los contenidos de un producto. | 15 |
+|Benchmark| Revisión de features de la competencia y referencias análogas. | 20 |
 |Flujo / árbol de contenidos|Documento que estructura contenidos y su navegación|15|
-|Card Sorting| Actividad para entender el modelo mental de los usuarios en términos de organización de los contenidos. | 15 |
-|Testeo de soluciones actuales de la competencia| Sesiones de testing de productos actuales de la competencia para ver qué atributos valoran los usuarios. Al menos 5 usuarios.| 50 |
 |Testeos de prototipos| Sesiones de testing de la solución propuesta con al menos 5 usuarios. | 60 |
 |Sketching y wireframing| Elaboración de prototipos de baja y mediana fidelidad. | 30 |
-|Prototipado de contenido| Prototipado y testeo del contenido del producto. | 30 |
 |Prototipado de alta fidelidad| Elaboración de prototipo en base a las pantallas diseñadas. | 80 |
+|  | Total | 290 |
 
-## 7. Entrega
+## 4. Proceso UX
 
-El proyecto será entregado en un repositorio de GitHub. En él deberás agregar
-lo siguiente:
+### 4.1) Descubrimiento y Planificación
 
-README.md  explicando el proceso del proyecto:
+#### Entrevista con el Cliente
+![image](https://imgur.com/qnHQjHr.jpg)
 
-* Objetivos del proyecto
-* Problemas identificados en la investigación (del cliente y del usuario)
-* Definición del público objetivo
-  - User persona
-  - Customer Journey Map (indicando pain y gain points)
-* Definición de la solución/producto
-* Link a prototipo navegable
-* Explicación de cómo los contenidos y funcionalidades responden a los objetivos
-  del proyecto.
-* Explicación de cómo los contenidos y funcionalidades resuelven cada uno de las
-  necesidades del usuario final.
-* Link de Zeplin, InVision inspects o Marvel Hand-offs para compartir tus
-  diseños con desarrolladores.
+- “Estamos apuntando a hacernos de un nombre y establecernos con nuestros **clientes grandes**.”
 
-Un video en Loom de máximo 10 minutos explicando tu documento.
+- “Las empresas piden una **cotización formal**, se digitaliza la hoja de cotización y se envía un correo con el **documento formal** en pdf para su aceptación previa y así queden **garantías** para ambas partes.”
 
-* Estos 10 minutos tienes que utilizarlos para explicar los puntos indicados en
-  el `README.md` y para hacer un demo de la solución.
+- “Nuestra estrategia es enviar un **especialista** a la visita de cotización ya sea un proyecto grande o pequeño.”
 
-En las otras carpetas del repositorio o en las carpetas de Google Drive podrás
-agregar los documentos complementarios que sustenten tu proceso:
+- “Los constructores nos contactan por **referencias** porque ya **conocen nuestro trabajo** y por eso **siempre nos llaman**, no tenemos que competir con empresas similares a nosotros.”
 
-* Fotos, videos, guías de las actividades que realizaste
-* Flujo de usuario
-* Mapa de sitio
-* Etc.
+- “Nuestras mejores cualidades de servicio son: **El proceso de atención bien estructurado, respetamos las fechas pactadas y calidad de servicio**.”
 
-## 8. Otras consideraciones
 
-### 1) Planeamiento y presupuesto
+#### Entrevista con usuarios
 
-Cuando realices el planeamiento de cómo enfrentarás el reto deberás sustentarlo
-ante tu cliente y ante un coach. Ellos te darán la aprobación final para seguir
-con las actividades planteadas.
+Se entrevisto a 5 usuarios: 2 arquitectos, 1 ingeniero civil y 2 empresarios. Ellos son parte de **nuestro usuario principal**. Pero también se entrevisto a 3 usuarios que son jefes del hogar, ellas son parte del usuario secundario.
 
-### 2) Definición del producto
+- “Es importante que se **respeten las fechas pactadas** porque me asegura que tendré el servicio a tiempo.”
 
-Al definir el producto recuerda pensar en:
+- “Para mí es importante la **calidad del servicio**.”
 
-* Quiénes son los principales usuarios de producto
-* Cuáles son los objetivos del negocio en relación con el producto
-* Cuáles son los objetivos de estos usuarios en relación con el producto
-* Cuál será la propuesta de valor del sitio que vas a crear
-* Cuáles son los contenidos que el usuarios quiere ver, la información que
-  buscarían para convencerse de comprar, confiar en la empresa que lo ofrece,
-  encontrar lo que busca y comprarlo
-* Cómo vas a distribuir y entregar esos contenidos
-* Cómo es el flujo que los usuarios que acaben comprando deberán hacer en la web
-* Cómo crees que el producto les está resolviendo sus problemas
+- “Me gustaría saber **con qué empresas han trabajado**.”
 
-### 3) Prototipo de alta fidelidad
+- “Me daría **confianza** si tienen un **buen proceso de atención**.”
 
-Existen varias herramientas que puedes utilizar para crear tu prototipo,
-nosotros recomendamos Figma, sin embargo, eres libre de utilizar otras
-herramientas como Adobe XD, etc. Si eliges Figma tendrás que usar una
-herramienta adicional como Marvel o Invision. Recuerda que el diseño que
-trabajes debe seguir los fundamentos de visual design, como: contraste,
-alineación, jerarquía, entre otros.
+- “A veces que haya un **contacto directo** es complicado y no siento que esté hablando realmente con la empresa.”
 
-## 9. Hacker edition
+- “Mientras más **detallada la cotización** es mejor.”
 
-* En lugar de usar Github para documentar tu proceso de trabajo, documéntalo en
-  su propia web, puedes usar Wix, Instapage, Squarespace, Google Sites o crear
-  tu propia web desde 0.
-* Escribe un post en Medium contando tu proceso de investigación.
+- “Buscamos estos servicios por **recomendaciones** de personas en el rubro.”
+
+- “Un buen servicio es que sean **comprometidos** y que estén **pendientes** hasta que yo esté satisfecho.”
+
+Ver entrevistas de cliente y usuarios [aquí](https://drive.google.com/drive/folders/1stduZeepUC0S0_QA5ChAYYkk22s5t44N?usp=sharing)
+
+#### Bechmarck
+
+Los criterios utilizados para la selección, de estos referentes, fueron los siguientes:
+
+**Calidad de Información**
+
+- Brindan información actualizada, clara y específica de los servicios que brindan y la finalidad de la empresa (visión y misión).
+
+**Servicio al Cliente**
+
+- Cuentan con diferentes canales de comunicación que permiten al usuario elegir dónde desea requerir información (telefonos, direccion, horarios, correo, etc).
+
+**Navegabilidad**
+
+- Los websites cuentan con una estructura ordenada y clara que facilita orientación intuitiva durante la navegación. Los iconos son interpretados con facilidad.
+
+**Selección de Contenido**
+
+- El contenido es completo, se puede encontrar información valiosa y precisa que facilita el entendimiento de su trabajo.
+
+Ver el detalle de las referencias [aquí](https://docs.google.com/presentation/d/18JAyGJAPqothuz5T1NUMjuR73qDYXo9qlApMEaKyPuE/edit?usp=sharing)
+
+
+### 4.2) Síntesis y Definición
+
+#### Affinity Map
+![image 2](https://imgur.com/3igwZRE.jpg)
+
+![image 3](https://imgur.com/j7s3GWO.jpg)
+
+**Conclusiones**
+
+- Para la mayoría de nuestros usuarios es importante la **calidad** del servicio y que se respeten los **tiempos pactados**, eso les da una señal de que hay **compromiso**.
+- Para la mayoría de nuestros usuarios es necesario que estos servicios cuenten con buenos **comentarios, recomendaciones** y presentación de **proyectos ejecutados**, ya que es información que les genera confianza.
+- Para nuestros usuarios es primordial que haya una **comunicación constante y directa** durante todo el proceso de atención y servicio.
+- Nuestros usuarios consideran que la **cotización** de estos servicios debe ser **formal y detallada**.
+- Para la mayoría de nuestros usuarios es mejor **buscar** estos servicios por medio de una **página web**, sino solo por **recomendaciones** de colegas.
+- Una parte pequeña de nuestros usuarios han tenido una **mala experiencia** del servicio que les han brindado.
+- Algunos de nuestros usuarios piensan que estos servicios son **necesarios e importantes**.
+
+Ver el detalle [aquí](https://miro.com/welcomeonboard/8eYqtfgNuWk0dzuBwHC9tENeANlUrtmaiQZs9zHKv1CeQ5C55L8MepzQBKCEM12z)
+
+#### User Persona
+
+![image 4](https://imgur.com/o0oT40O.jpg)
+
+#### Customer Journey Map
+
+![image 5](https://imgur.com/wmdYubR.jpg)
+
+#### Definición del Producto
+
+**Problem Statements**
+
+- Julio **necesita** ver los comentarios y recomendaciones de otras empresas **para** verificar si brindan un buen servicio.
+- Julio **necesita** información detallada de los proyectos ejecutados que realizó la empresa **porque** quiere ver que se hayan respetado los diseños.
+- Julio **quisiera** que la comunicación con la empresa sea constante y directa **porque** se pueden presentar cambios o dificultades durante el proceso del proyecto.
+- Julio **quisiera** que las cotizaciones sean formales y detalladas **porque** así le generaría confianza para poder contratar a la empresa.
+- Julio **necesita** encontrar la información de contacto **porque** quiere comunicarse rápidamente con la empresa.
+
+**HMW**
+
+- HMW implementar una web para que el usuario encuentre referencias de que la empresa brinda un buen servicio.
+- HMW mostrar el proceso detallado de los proyectos ejecutados por la empresa.
+- HMW mejorar la comunicación para que el usuario sienta que habla directamente con la empresa.
+- HMW contar con un proceso de cotización formal que sea facil y rapido.
+- HMW brindar diferentes alternativas de contacto dinámicas.
+
+**WHAT IF?**
+
+- WHAT IF el usuario encontrara una sección de comentarios y calificación de las empresas que contrataron este servicio.
+- WHAT IF el usuario encontrara una galeria de imagenes 3D de los proyectos.
+- WHAT IF el usuario encontrara detalles de los proyectos (empresa que lo contrató, distrito, el tiempo aprox en que se ejecutó y qué tipo de servicio se contrató.)
+- WHAT IF el usuario tiene acceso a un número de contacto disponible para estar en comunicación constante durante el servicio.
+- WHAT IF la cotizacion solo se realizara por la plataforma web a través de un formulario sin necesidad de enviar un correo. 
+- WHAT IF si el usuario en la web, subiera las fotos del lugar donde desea realizar el servicio y así se le brindara una cotización más real sin necesidad de tener una visita de la empresa.
+- WHAT IF el usuario resuelve todas sus dudas a través de un chat interactivo online.
+- WHAT IF el usuario ve en la web constantemente la información de contacto de la empresa.
+
+**Feature List**
+
+- Hacer un slider,  que pase en automático,  de recomendaciones y ranking donde se visualice el logo de la empresa que brinda el comentario.
+- Una galería de imágenes del antes, durante y después del proyecto con información de  quien se le brindó ese trabajo y que servicio se ejecutó.
+- Cada tipo de servicio debe tener un formulario abajo donde solo se ponga detalle de los m2 o calidad de materiales y al dar enviar no necesite redactar un correo electrónico.
+- Crear un espacio donde los clientes puedan dejar sus comentarios y calificaciones sobre el servicio.
+- Hacer visible y constante la información de contacto de la empresa en el footer de la web.
+- Agregar un chatbot de preguntas necesarias que se auto-respondan luego de darles click, y que al final el usuario brinde un correo donde se el envíe la cotización.
+
+Ver el detalle de Definición del Producto [aquí](https://docs.google.com/presentation/d/1AbMVBKm5I_f_oSXt_OAyU7WLN_CPMScLwrAUwpZLPhE/edit?usp=sharing)
+
+
+### 4.2) Ideación, Prototipado y user testing
+
+#### Bechmark por cada Problem Statement y Crazy 8s
+
+Ver el detalle [aquí](https://docs.google.com/presentation/d/1NT-dHC9JmoVjJLnG8XJE2c6glrACAfFQkGMm-RqMLWU/edit?usp=sharing)
+
+#### Flujo de Contenidos
+
+Ver el detalle [aquí](https://miro.com/welcomeonboard/KbiDaeudWIzzpBP9B0X2qKGb0Nk9V8NStiDAQYyhmCTOg93hqpfuxI1ZO9kQlBYV)
+
+#### Prototipo de Mediana Fidelidad 
+
+![image 6](https://imgur.com/grKkATw.jpg)
+
+Ver el detalle [aquí](https://www.figma.com/proto/Cf5h70hypMzoe4p8FQbvU9/FYM-Project?node-id=16%3A56&scaling=scale-down) 
+
+#### Prototipo de Alta Fidelidad
+
+![image 7](https://imgur.com/qPvfcEF.jpg)
+
+Ver el detalle [aquí](https://www.figma.com/proto/Cf5h70hypMzoe4p8FQbvU9/FYM-Project?node-id=88%3A285&viewport=-1565%2C-4088%2C1&scaling=min-zoom) 
+
+
+#### User Testing
+
+**Conclusiones:**
+
+Usuario 1:
+- Demoró aproximadamente 5 minutos en navegar por la web app.
+- Indica que el servicio que más llamó su atención fue el de "Instalación de Drywall"
+- Indica que no ve necesario el botón de "Cotiza" en la portada del proyecto porque puede ver el botón principal de "Cotizar" en el menú principal.
+- Le dio mucha importancia el poder visualizar los comentarios.
+- NOTA IMPORTANTE: No notó los botones de chat y recomendación.
+
+Usuario 2:
+
+
+## 5. Conclusiones 
+
+
+## 6. Enlaces
+
+- [Carpeta de Drive compartido](https://drive.google.com/drive/folders/1yy1KmRIdEJAv-IyLeNo3txQwA0hq36A6?usp=sharing)
+- [Prototipado en figma](https://www.figma.com/file/Cf5h70hypMzoe4p8FQbvU9/FYM-Project?node-id=0%3A1)
+- Archivo en Zeplin
