@@ -8,7 +8,7 @@
 * [2. Objetivos del Proyecto](#2-Objetivos-del-Proyecto)
 * [3. Implementación](#3-Implementación)
 * [4. Proceso UX](#4-Proceso-Ux)
-  * [4.1. Descubrimiento e Investigación](#4.1-Descubrimiento-e-Investigación)
+  * [4-1 Descubrimiento e Investigación](#4-1-Descubrimiento-e-Investigación)
     * [4.1.1 Entrevista con el Cliente](#Entrevista-con-el-Cliente)
     * [4.1.2 Entrevistas con Usuarios](#Entrevista-con-usuarios)
     * [4.1.3 Benchmark](#Benchmark)
