@@ -4,11 +4,11 @@
 
 ## Índice
 
-* [1. Introducción](#1-Introducción)
-* [2. Objetivos del Proyecto](#2-Objetivos-del-Proyecto)
-* [3. Implementación](#3-Implementación)
-* [4. Proceso UX](#4-Proceso-Ux)
-  * [4.1 Descubrimiento e Investigación](#Descubrimiento-e-Investigación)
+* [1. Introducción](#Introducción)
+* [2. Objetivos del Proyecto](#Objetivos-del-Proyecto)
+* [3. Implementación](#Implementación)
+* [4. Proceso UX](#Proceso-Ux)
+  * [4.1 Descubrimiento e Investigación](#4.1-Descubrimiento-e-Investigación)
     * [4.1.1 Entrevista con el Cliente](#Entrevista-con-el-Cliente)
     * [4.1.2 Entrevistas con Usuarios](#Entrevista-con-usuarios)
     * [4.1.3 Benchmark](#Benchmark)
@@ -18,15 +18,14 @@
     * [4.2.3 Customer Journey Map](#Customer-Journey-Map)
     * [4.2.4 Definición del Producto](#Definición-del-Producto)
   * [4.3 Ideación, Prototipado y User Testing](#Ideación,-Prototipado-y-User-Testing)
-    * [4.3.1 Benchmark por cada Problem Statement](#Benchmark-por-cada-Problem-Statement)
-    * [4.3.2 Crazy 8s](#Crazy-8s)
-    * [4.3.3 Flujo de Contenidos](#Flujo-de-Contenidos)
-    * [4.3.4 Prototipo de Mediana Fidelidad](#Prototipo-de-Mediana-Fidelidad)
-    * [4.3.5 Prototipo de Alta Fidelidad](#Prototipo-de-Alta-Fidelidad)
-    * [4.3.6 User Testing](#User-Testing)
+    * [4.3.1 Benchmark por cada Problem Statement y Crazy 8s](#Benchmark-por-cada-Problem-Statement)
+    * [4.3.2 Flujo de Contenidos](#Flujo-de-Contenidos)
+    * [4.3.3 Prototipo de Mediana Fidelidad](#Prototipo-de-Mediana-Fidelidad)
+    * [4.3.4 Prototipo de Alta Fidelidad](#Prototipo-de-Alta-Fidelidad)
+    * [4.3.5 User Testing](#User-Testing)
 
-* [5. Conclusiones](#5-Conclusiones)
-* [6. Enlaces](#6-Enlaces)
+* [5. Conclusiones](#Conclusiones)
+* [6. Enlaces](#Enlaces)
 
 ***
 
@@ -59,7 +58,7 @@ Para realizar este proyecto hemos seleccionado las siguientes herramientas:
 
 ## 4. Proceso UX
 
-### 4.1) Descubrimiento y Planificación
+### 4.1 Descubrimiento e Investigación
 
 #### Entrevista con el Cliente
 ![image](https://imgur.com/qnHQjHr.jpg)
@@ -97,7 +96,7 @@ Se entrevisto a 5 usuarios: 2 arquitectos, 1 ingeniero civil y 2 empresarios. El
 
 Ver entrevistas de cliente y usuarios [aquí](https://drive.google.com/drive/folders/1stduZeepUC0S0_QA5ChAYYkk22s5t44N?usp=sharing)
 
-#### Bechmarck
+#### Benchmark
 
 Los criterios utilizados para la selección, de estos referentes, fueron los siguientes:
 
@@ -120,7 +119,7 @@ Los criterios utilizados para la selección, de estos referentes, fueron los sig
 Ver el detalle de las referencias [aquí](https://docs.google.com/presentation/d/18JAyGJAPqothuz5T1NUMjuR73qDYXo9qlApMEaKyPuE/edit?usp=sharing)
 
 
-### 4.2) Síntesis y Definición
+### 4.2 Síntesis y Definición
 
 #### Affinity Map
 ![image 2](https://imgur.com/3igwZRE.jpg)
@@ -188,9 +187,9 @@ Ver el detalle [aquí](https://miro.com/welcomeonboard/8eYqtfgNuWk0dzuBwHC9tENeA
 Ver el detalle de Definición del Producto [aquí](https://docs.google.com/presentation/d/1AbMVBKm5I_f_oSXt_OAyU7WLN_CPMScLwrAUwpZLPhE/edit?usp=sharing)
 
 
-### 4.2) Ideación, Prototipado y user testing
+### 4.3 Ideación, Prototipado y user testing
 
-#### Bechmark por cada Problem Statement y Crazy 8s
+#### Benchmark por cada Problem Statement y Crazy 8s
 
 Ver el detalle [aquí](https://docs.google.com/presentation/d/1NT-dHC9JmoVjJLnG8XJE2c6glrACAfFQkGMm-RqMLWU/edit?usp=sharing)
 
