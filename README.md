@@ -224,6 +224,14 @@ Usuario 1:
 
 Usuario 2:
 
+Usuario 3:
+
+Ver video [aquí](https://www.loom.com/share/2285796333e54b2d89fe794f9135fc97) 
+
+Usuario 4:
+
+Ver video [aquí](https://www.loom.com/share/d22876758d9f4ab89c36e17b03e72091) 
+
 
 ## 5. Conclusiones 
 
@@ -231,5 +239,5 @@ Usuario 2:
 ## 6. Enlaces
 
 - [Carpeta de Drive compartido](https://drive.google.com/drive/folders/1yy1KmRIdEJAv-IyLeNo3txQwA0hq36A6?usp=sharing)
-- [Prototipado en figma](https://www.figma.com/file/Cf5h70hypMzoe4p8FQbvU9/FYM-Project?node-id=0%3A1)
+- [Prototipado en figma](https://www.figma.com/file/Cf5h70hypMzoe4p8FQbvU9/FYM-Project?node-id=30%3A0)
 - Archivo en Zeplin
