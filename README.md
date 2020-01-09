@@ -213,9 +213,8 @@ Ver el detalle [aquí](https://www.figma.com/proto/Cf5h70hypMzoe4p8FQbvU9/FYM-Pr
 
 #### User Testing
 
-**Conclusiones:**
-
 Usuario 1:
+
 - Demoró aproximadamente 5 minutos en navegar por la web app.
 - Indica que el servicio que más llamó su atención fue el de "Instalación de Drywall"
 - Indica que no ve necesario el botón de "Cotiza" en la portada del proyecto porque puede ver el botón principal de "Cotizar" en el menú principal.
@@ -224,14 +223,26 @@ Usuario 1:
 
 Usuario 2:
 
-Usuario 3:
-
 Ver video [aquí](https://www.loom.com/share/2285796333e54b2d89fe794f9135fc97) 
 
-Usuario 4:
+- Navegó aproximadamente 9 minutos en la web app.
+- Menciona que la página está bien diseñada.
+- Le gusta como se ve la sección de los proyectos.
+- Le da la impresión de que la empresa hace bien su trabajo.
+- Le agrada que en la cotización te preguntan lo necesario y que te puedan responder rápido.
+- Le fue fácil navegar en la página porque dice que lo va "llevando de la mano."
+- Le gusta que le den bastantes opciones de contacto y piensa que ofrece una buena comunicación.
+
+Usuario 3:
 
 Ver video [aquí](https://www.loom.com/share/d22876758d9f4ab89c36e17b03e72091) 
 
+- Demoró aproximadamente 6 minutos en la web app.
+- Menciona que le parece una manera fácil de buscar servicios.
+- Le gusta como se presenta la empresa y la manera en que presentan sus proyectos y los servicios que ofrecen.
+- Le gusta la forma en que se presenta la cotización.
+- Le parece fácil el modo de chatear con la empresa.
+- Le gusta toda la información que se le brinda para poder comunicarse.
 
 ## 5. Conclusiones 
 
