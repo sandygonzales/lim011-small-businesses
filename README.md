@@ -4,10 +4,10 @@
 
 ## Índice
 
-* [1. Introducción](#Introducción)
-* [2. Objetivos del Proyecto](#Objetivos-del-Proyecto)
-* [3. Implementación](#Implementación)
-* [4. Proceso UX](#Proceso-Ux)
+* [1. Introducción](#1-Introducción)
+* [2. Objetivos del Proyecto](#2-Objetivos-del-Proyecto)
+* [3. Implementación](#3-Implementación)
+* [4. Proceso UX](#4-Proceso-Ux)
   * [4.1 Descubrimiento e Investigación](#4.1-Descubrimiento-e-Investigación)
     * [4.1.1 Entrevista con el Cliente](#Entrevista-con-el-Cliente)
     * [4.1.2 Entrevistas con Usuarios](#Entrevista-con-usuarios)
@@ -17,15 +17,15 @@
     * [4.2.2 User Persona](#User-Persona)
     * [4.2.3 Customer Journey Map](#Customer-Journey-Map)
     * [4.2.4 Definición del Producto](#Definición-del-Producto)
-  * [4.3 Ideación, Prototipado y User Testing](#Ideación,-Prototipado-y-User-Testing)
-    * [4.3.1 Benchmark por cada Problem Statement y Crazy 8s](#Benchmark-por-cada-Problem-Statement)
+  * [4.3 Ideación, Prototipado y User Testing](#Ideación-Prototipado-y-User-Testing)
+    * [4.3.1 Benchmark por cada Problem Statement y Crazy 8s](#Benchmark-por-cada-Problem-Statement-y-Crazy-8s)
     * [4.3.2 Flujo de Contenidos](#Flujo-de-Contenidos)
     * [4.3.3 Prototipo de Mediana Fidelidad](#Prototipo-de-Mediana-Fidelidad)
     * [4.3.4 Prototipo de Alta Fidelidad](#Prototipo-de-Alta-Fidelidad)
     * [4.3.5 User Testing](#User-Testing)
 
-* [5. Conclusiones](#Conclusiones)
-* [6. Enlaces](#Enlaces)
+* [5. Conclusiones](#5-Conclusiones)
+* [6. Enlaces](#6-Enlaces)
 
 ***
 
@@ -60,7 +60,7 @@ Para realizar este proyecto hemos seleccionado las siguientes herramientas:
 
 ### 4.1 Descubrimiento e Investigación
 
-#### Entrevista con el Cliente
+#### 4.1.1 Entrevista con el Cliente
 ![image](https://imgur.com/qnHQjHr.jpg)
 
 - “Estamos apuntando a hacernos de un nombre y establecernos con nuestros **clientes grandes**.”
@@ -74,7 +74,7 @@ Para realizar este proyecto hemos seleccionado las siguientes herramientas:
 - “Nuestras mejores cualidades de servicio son: **El proceso de atención bien estructurado, respetamos las fechas pactadas y calidad de servicio**.”
 
 
-#### Entrevista con usuarios
+#### 4.1.2 Entrevista con usuarios
 
 Se entrevisto a 5 usuarios: 2 arquitectos, 1 ingeniero civil y 2 empresarios. Ellos son parte de **nuestro usuario principal**. Pero también se entrevisto a 3 usuarios que son jefes del hogar, ellas son parte del usuario secundario.
 
@@ -96,7 +96,7 @@ Se entrevisto a 5 usuarios: 2 arquitectos, 1 ingeniero civil y 2 empresarios. El
 
 Ver entrevistas de cliente y usuarios [aquí](https://drive.google.com/drive/folders/1stduZeepUC0S0_QA5ChAYYkk22s5t44N?usp=sharing)
 
-#### Benchmark
+#### 4.1.3 Benchmark
 
 Los criterios utilizados para la selección, de estos referentes, fueron los siguientes:
 
@@ -121,7 +121,7 @@ Ver el detalle de las referencias [aquí](https://docs.google.com/presentation/d
 
 ### 4.2 Síntesis y Definición
 
-#### Affinity Map
+#### 4.2.1 Affinity Map
 ![image 2](https://imgur.com/3igwZRE.jpg)
 
 ![image 3](https://imgur.com/j7s3GWO.jpg)
@@ -138,15 +138,15 @@ Ver el detalle de las referencias [aquí](https://docs.google.com/presentation/d
 
 Ver el detalle [aquí](https://miro.com/welcomeonboard/8eYqtfgNuWk0dzuBwHC9tENeANlUrtmaiQZs9zHKv1CeQ5C55L8MepzQBKCEM12z)
 
-#### User Persona
+#### 4.2.2 User Persona
 
 ![image 4](https://imgur.com/o0oT40O.jpg)
 
-#### Customer Journey Map
+#### 4.2.3 Customer Journey Map
 
 ![image 5](https://imgur.com/wmdYubR.jpg)
 
-#### Definición del Producto
+#### 4.2.4 Definición del Producto
 
 **Problem Statements**
 
@@ -189,28 +189,28 @@ Ver el detalle de Definición del Producto [aquí](https://docs.google.com/prese
 
 ### 4.3 Ideación, Prototipado y user testing
 
-#### Benchmark por cada Problem Statement y Crazy 8s
+#### 4.3.1 Benchmark por cada Problem Statement y Crazy 8s
 
 Ver el detalle [aquí](https://docs.google.com/presentation/d/1NT-dHC9JmoVjJLnG8XJE2c6glrACAfFQkGMm-RqMLWU/edit?usp=sharing)
 
-#### Flujo de Contenidos
+#### 4.3.2 Flujo de Contenidos
 
 Ver el detalle [aquí](https://miro.com/welcomeonboard/KbiDaeudWIzzpBP9B0X2qKGb0Nk9V8NStiDAQYyhmCTOg93hqpfuxI1ZO9kQlBYV)
 
-#### Prototipo de Mediana Fidelidad 
+#### 4.3.3 Prototipo de Mediana Fidelidad 
 
 ![image 6](https://imgur.com/grKkATw.jpg)
 
 Ver el detalle [aquí](https://www.figma.com/proto/Cf5h70hypMzoe4p8FQbvU9/FYM-Project?node-id=16%3A56&scaling=scale-down) 
 
-#### Prototipo de Alta Fidelidad
+#### 4.3.4 Prototipo de Alta Fidelidad
 
 ![image 7](https://imgur.com/qPvfcEF.jpg)
 
 Ver el detalle [aquí](https://www.figma.com/proto/Cf5h70hypMzoe4p8FQbvU9/FYM-Project?node-id=88%3A285&viewport=-1565%2C-4088%2C1&scaling=min-zoom) 
 
 
-#### User Testing
+#### 4.3.5 User Testing
 
 Usuario 1:
 
